@@ -1,4 +1,5 @@
 # Gradients :rainbow:
+
 Tiny fun project to create random images of colorful gradients, e. g. for backgrounds.
 
 Requires [ImageMagick](https://github.com/ImageMagick/ImageMagick)
